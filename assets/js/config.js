@@ -38,7 +38,7 @@ window.CONFIG = {
    * Cambia 'mode' a 'reddit' o 'twitter' cuando estés listo.
    */
   social: {
-    mode: 'simulated',         // 'simulated' | 'reddit' | 'twitter'
+    mode: 'reddit',         // 'simulated' | 'reddit' | 'twitter'
     pollMs: 15_000,            // refresca cada 15s
     twitter: {
       bearerToken: '',         // pegar token aquí cuando se contrate API
